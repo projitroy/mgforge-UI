@@ -9,7 +9,7 @@ export default function Home() {
           src="/mgforge_logo.jpg"
           alt="MGForgelogo"
         />
-        <span className="absolute bottom-50 text-5xl left-1/2 -translate-x-1/2 font-bold">Contact: <span className="text-mgred">8100177803</span></span>
+        <span className="absolute bottom-50 text-5xl left-1/2 -translate-x-1/2 font-bold">Contact: <span className="text-mgred">+91 8100177803</span></span>
         <span className="absolute bottom-4 left-4">Copyright © 2026 MG Forge - All Rights Reserved.</span>
       </main>
     </div>

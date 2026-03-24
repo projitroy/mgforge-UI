@@ -4,10 +4,11 @@
   "name": "mgforge-frontend",
   "compatibility_date": "2026-03-17",
   "compatibility_flags": [
-    "nodejs_compat"
+    "nodejs_compat",
+    "global_fetch_strictly_public",
   ],
   "assets": {
-    "directory": "./.open-next/assets",
+    "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
   "services": [
